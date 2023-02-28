@@ -1,0 +1,6 @@
+#home__container {
+    position: relative;
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+}
