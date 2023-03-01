@@ -65,7 +65,7 @@ export default function Cards() {
                   <Avatar
                     size="sm"
                     src={ item.avatar }
-                    sx={{ p: 0.5, border: '2px solid' }}
+                    sx={{ width: '50px' }}
                     id="user__avatar"
                   />
                 </Box>

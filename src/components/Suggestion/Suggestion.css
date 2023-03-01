@@ -1,3 +1,31 @@
 #suggestion__container {
     width: 30%;
 }
+
+#suggested__container {
+    width: 70%;
+
+}
+
+#single__suggested {
+    display: flex;
+}
+
+#single__suggested div {
+    padding: 10px 0 10px 10px;
+}
+
+#single__suggested img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+#single__suggested p {
+    padding: 10px;
+}
+
+#single__suggested p:last-child {
+    color: #42aaf5;
+    font-size: 14px;
+}
